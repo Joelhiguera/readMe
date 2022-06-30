@@ -1,27 +1,26 @@
-# kasdfjsadfjf
+# New readMe generator
   ![](https://img.shields.io/github/license/JoelHiguera/Stress-Project "")
 
   ## Description 
-  jasdhfjsdf
-
+  This is a readMe generator and i can provide information
 
   ## Installation Instructions
-  ajfhjsffjafh
+  install on windows 95
 
   ## Usage Information
-  jasdfhsdaf
+  usage
 
   ## Contribution Guidlines 
-  jsadfhsdaf
+  please contribute
 
   ## Testing Instructions
-  jsadfsda
+  please test
 
   ## Selected License 
   ![](https://img.shields.io/github/license/JoelHiguera/Stress-Project "")
 
   ## Questions 
-  Github URL: jasdhf
+  Github URL: joelhiguera
 
-  Email: jkahsdfsdf
+  Email: email@email.com
   
